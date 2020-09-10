@@ -1,0 +1,20 @@
+{
+  "name": "backend-services",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/randeeprajputr/NodeJs_Backend_development.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/randeeprajputr/NodeJs_Backend_development/issues"
+  },
+  "homepage": "https://github.com/randeeprajputr/NodeJs_Backend_development#readme",
+  "description": ""
+}
